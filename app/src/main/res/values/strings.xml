@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UCL 2017 FINAL SCORE-KEEPER</string>
+
+    <string name="image_Description">Cadiff 2017</string>
+
+    <string name="team_Juventus_name">Juventus</string>
+
+    <string name="team_Madrid_name">Real Madrid</string>
+
+    <string name="team_score">0</string>
+
+    <string name="team_red_card">0</string>
+
+    <string name="team_yellow_card">0</string>
+
+    <string name="team_goal_button">Goal</string>
+
+    <string name="team_red_button">Red Card</string>
+
+    <string name="team_yellow_button">Yellow Card</string>
+
+    <string name="reset_button">Reset</string>
+
+
+</resources>
